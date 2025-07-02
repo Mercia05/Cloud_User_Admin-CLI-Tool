@@ -25,7 +25,7 @@ Technologies Used
 - VS Code / Terminal
 
 Demo Video
-https://img.youtube.com/vi/UK1YDkvX2Qs/hqdefault.jpg
+https://youtu.be/UK1YDkvX2Qs
 
 
 
